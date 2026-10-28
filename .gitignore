@@ -1,0 +1,15 @@
+node_modules
+.dist
+dist
+.env
+.env.local
+*.log
+.vscode
+
+*.bak
+*.zip
+.env
+.env.*
+!.env.example
+/node_modules/
+/dist/
